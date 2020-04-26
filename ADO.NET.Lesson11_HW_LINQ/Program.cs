@@ -206,7 +206,7 @@ namespace ADO.NET.Lesson11_HW_LINQ
             Console.WriteLine(xDoc);
         }
 
-        //  e.	Выгрузить в XML файл, данные из таблицы Timer, у которых нет даты завершения
+        //  e.	Выгрузить в XML файл, данные из таблицы Timer, у которых нет даты завершения 
         //      работы DateFinish =null
         static void TaskE()
         {
